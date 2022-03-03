@@ -1,6 +1,6 @@
 function snapCrackle(maxValue) {
     let resultado = '';
-    for (let i = 0; i <= maxValue; i++) {
+    for (let i = 1; i <= maxValue; i++) {
 
         if (i % 2 !== 0 && i % 5 !== 0) {
             resultado = resultado + 'Snap, ';
