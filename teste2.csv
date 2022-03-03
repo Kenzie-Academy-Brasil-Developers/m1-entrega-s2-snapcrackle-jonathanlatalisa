@@ -1,0 +1,7 @@
+maxValue,i,i <= maxValue,i++,else if,result
+15,0,true,1,0 % 2 !== 0 && i % 5 == 0,false
+15,1,true,2,1 % 2 !== 0 && i % 5 == 0,false
+15,2,true,3,2 % 2 !== 0 && i % 5 == 0,false
+15,3,true,4,3 % 2 !== 0 && i % 5 == 0,false
+15,4,true,5,4 % 2 !== 0 && i % 5 == 0,false
+15,5,true,6,5 % 2 !== 0 && i % 5 == 0,SnapCrackle

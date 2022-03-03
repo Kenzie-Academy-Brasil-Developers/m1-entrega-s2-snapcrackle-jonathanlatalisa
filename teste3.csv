@@ -1,0 +1,7 @@
+maxValue,i,i <= maxValue,i++,else if,result
+15,0,true,1," i % 5 == 0",Crackle
+15,1,true,2," i % 5 == 0",false
+15,2,true,3," i % 5 == 0",false
+15,3,true,4," i % 5 == 0",false
+15,4,true,5," i % 5 == 0",false
+15,5,true,6," i % 5 == 0",Crackle
